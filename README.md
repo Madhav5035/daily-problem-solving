@@ -22,12 +22,11 @@ I organize my solutions by platform and topic to keep the codebase clean:
 
 ## 📈 Progress Tracker
 
-| Platform | Problems Solved | Status |
-| :--- | :--- | :--- |
-| LeetCode | 0 | 🏗️ In Progress |
-| GFG | 0 | 🏗️ In Progress |
-| HackerRank | 0 | 🏗️ In Progress |
-| Topic-Wise | 0 | 🏗️ In Progress |
+| Platform | Problems Solved | Status | Profile Link |
+| :--- | :--- | :--- | :--- |
+| LeetCode | 0 | 🏗️ In Progress | [Visit My Profile](https://leetcode.com/u/Madhav4223/) |
+| GFG | 0 | 🏗️ In Progress | [Visit My Profile](https://www.geeksforgeeks.org/profile/madhavdz6l1) |
+| HackerRank | 0 | 🏗️ In Progress | [Visit My Profile](https://www.hackerrank.com/profile/madhavdube000) |
 
 ### Recent Top Solutions
 
@@ -42,8 +41,7 @@ I organize my solutions by platform and topic to keep the codebase clean:
 ---
 
 ## 📬 Connect with Me
-- **Instagram:** 
-- **LinkedIn:** 
+- **LinkedIn:**  [Visit My Profile](https://www.linkedin.com/in/madhav-dubey-3b7493298/) |
 - **Email:** madhavdube000@gmail.com
 
 ---
