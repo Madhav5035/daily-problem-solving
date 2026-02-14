@@ -14,9 +14,9 @@ Welcome to my central repository for competitive programming, data structures, a
 
 I organize my solutions by platform and topic to keep the codebase clean:
 
-* **[LeetCode](./LeetCode/)** - Categorized by Difficulty (Easy/Medium/Hard).
-* **[GeeksForGeeks](./GeeksForGeeks/)** - Topic-specific problems and articles.
-* **[Topic-Wise](./Topic-Wise/)** - Implementation of core Data Structures (Trees, Graphs, DP).
+* **[LeetCode](https://leetcode.com/u/Madhav4223/)** - Categorized by Difficulty (Easy/Medium/Hard).
+* **[GeeksForGeeks](https://www.geeksforgeeks.org/profile/madhavdz6l1)** - Topic-specific problems and articles.
+* **[Topic-Wise](https://github.com/Madhav5035/daily-problem-solving)** - Implementation of core Data Structures (Trees, Graphs, DP).
 
 ---
 
