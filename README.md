@@ -24,7 +24,7 @@ I organize my solutions by platform and topic to keep the codebase clean:
 
 | Platform | Problems Solved | Status | Profile Link |
 | :--- | :--- | :--- | :--- |
-| LeetCode | 0 | 🏗️ In Progress | [Visit My Profile](https://leetcode.com/u/Madhav4223/) |
+| LeetCode | 6 | 🏗️ In Progress | [Visit My Profile](https://leetcode.com/u/Madhav4223/) |
 | GFG | 0 | 🏗️ In Progress | [Visit My Profile](https://www.geeksforgeeks.org/profile/madhavdz6l1) |
 | HackerRank | 0 | 🏗️ In Progress | [Visit My Profile](https://www.hackerrank.com/profile/madhavdube000) |
 
