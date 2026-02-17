@@ -24,9 +24,8 @@ I organize my solutions by platform and topic to keep the codebase clean:
 
 | Platform | Problems Solved | Status | Profile Link |
 | :--- | :--- | :--- | :--- |
-| LeetCode | 7 | 🏗️ In Progress | [Visit My Profile](https://leetcode.com/u/Madhav4223/) |
-| GFG | 3 | 🏗️ In Progress | [Visit My Profile](https://www.geeksforgeeks.org/profile/madhavdz6l1) |
-| HackerRank | 4 | 🏗️ In Progress | [Visit My Profile](https://www.hackerrank.com/profile/madhavdube000) |
+| LeetCode | 8 | 🏗️ In Progress | [Visit My Profile](https://leetcode.com/u/Madhav4223/) |
+| GFG | 6 | 🏗️ In Progress | [Visit My Profile](https://www.geeksforgeeks.org/profile/madhavdz6l1) |
 
 ### Recent Top Solutions
 
